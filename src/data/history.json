@@ -1,0 +1,16 @@
+[
+  {
+    "role": "Software Engineer",
+    "organisation": "Accenture",
+    "startDate": "Dec, 2021",
+    "endDate": "Present",
+    "experiences": [
+      "Implemented new functionalities, debugged, and resolved issues resulting in a 20% increase in code quality",
+      "Managed software development projects using Agile methodologies and Jira/Confluence",
+      "Worked with web technologies such as Servlets, SpringBoot, SpringWebFlux to build applications.",
+      "Utilized MySQL and Cassandra databases to store and retrieve data.",
+      "Used Eclipse, VScode, IntelliJ, Postman for coding and debugging"
+    ],
+    "imageSrc": "history/accenture2.png"
+  }
+]
